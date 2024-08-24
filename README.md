@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Argon Admin Dashboard: React.js, Material UI - Dark & Light Mode
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Argon Admin Dashboard, a sleek and feature-rich solution built with React.js, and Material UI, offering both dark and light mode themes. Empower your project with 11 meticulously crafted pages, including data management, user interaction, and insightful chart displays.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Dashboard Page:** An overview of key metrics and insights.
+- **Manage Team Page:** Efficiently handle team members with MUI DataGrid.
+- **Contacts Information:** Keep track of contacts effortlessly with a DataGrid.
+- **Invoices Balances Page:** Manage invoice balances conveniently using MUI DataGrid.
+- **Profile Form Page:** Create new user profiles seamlessly with Formik and Yup integration.
+- **Calendar Page:** Interactive calendar functionality powered by FullCalendar.
+- **FAQ Page:** Provide answers to common queries using MUI Accordion.
+- **Charts Pages:** Visualize data effectively with various chart types including Bar, Pie, Line, Geography, and Stream.
 
-### `npm start`
+## Get Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository: `git clone https://github.com/ghadyg/ReactJSDashboards.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshots
 
-### `npm test`
+### Dark Mode
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Dark Mode](https://github.com/ghadyg/ReactJSDashboards/blob/main/dark-mode.png)
 
-### `npm run build`
+### Light Mode
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Light Mode](https://github.com/ghadyg/ReactJSDashboards/blob/main/white-mode.png)
